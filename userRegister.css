@@ -1,0 +1,77 @@
+
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+/* ------- Main Code-----------*/
+
+/*----navbar------*/
+.aob{
+    height: 50px;
+    width: 100px; 
+    
+    
+}
+ li.nav-item :hover {
+    background-color: grey;
+  }
+ li .nav-item {
+    transition: .5s;
+}
+
+.navbar-toggler{
+    color: white;
+}
+
+.navbar-brand:hover{
+background-color: indigo;
+}
+
+.navbar{
+    background-color: black;
+}
+
+
+/*----- section----*/
+
+section{
+    height: 600px;
+    width: auto;
+    background-color: aquamarine;
+}
+
+
+
+
+section{
+    background-image: url("pics/bg5.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+ 
+
+.box{
+    height: 400px;
+    width:450px;
+    margin: 40px auto;
+    opacity: .6;
+    background-color: #030002;
+    color: white;
+   
+}
+
+
+/*footer*/
+
+  #lol {
+    color: blue;
+  }
+  
+
+  footer{
+    height: 250px;
+    width: auto;
+    background-color: black;
+}
